@@ -18,9 +18,9 @@
 
 ---
 ### 🛠️ Tech Stack
-<div style="margin-bottom: 20px;">
-  <div style="margin-bottom: 15px;">
-    <div style="font-size: 18px; font-weight: bold; margin-bottom: 8px;">Languages & Frameworks</div>
+<div>
+  <div>
+    <h3>Languages & Frameworks</h3>
     <div>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-right: 10px;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 10px;">
@@ -29,8 +29,8 @@
     </div>
   </div>
 
-  <div style="margin-bottom: 15px;">
-    <div style="font-size: 18px; font-weight: bold; margin-bottom: 8px;">Database & Cloud</div>
+  <div>
+    <h3>Database & Cloud</h3>
     <div>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 10px;">
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="margin-right: 10px;">
@@ -39,7 +39,7 @@
   </div>
 
   <div>
-    <div style="font-size: 18px; font-weight: bold; margin-bottom: 8px;">Tools</div>
+    <h3>Tools</h3>
     <div>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;">
@@ -48,7 +48,6 @@
     </div>
   </div>
 </div>
-
 
 ---
 
